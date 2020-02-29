@@ -1,0 +1,3 @@
+fitz
+reportlab==3.5.13
+PyQt5
